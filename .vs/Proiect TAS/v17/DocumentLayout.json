@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FADC29-C36A-4E3D-99FD-09DEC48948AF}|Project Tests\\Project Tests.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project tests\\useroperationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FADC29-C36A-4E3D-99FD-09DEC48948AF}|Project Tests\\Project Tests.csproj|solutionrelative:project tests\\useroperationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FADC29-C36A-4E3D-99FD-09DEC48948AF}|Project Tests\\Project Tests.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project tests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FADC29-C36A-4E3D-99FD-09DEC48948AF}|Project Tests\\Project Tests.csproj|solutionrelative:project tests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FADC29-C36A-4E3D-99FD-09DEC48948AF}|Project Tests\\Project Tests.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project tests\\mypasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FADC29-C36A-4E3D-99FD-09DEC48948AF}|Project Tests\\Project Tests.csproj|solutionrelative:project tests\\mypasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project app\\project app\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|solutionrelative:project app\\project app\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project app\\project app\\iuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|solutionrelative:project app\\project app\\iuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project app\\project app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|solutionrelative:project app\\project app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project app\\project app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|solutionrelative:project app\\project app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project app\\project app\\ipassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|solutionrelative:project app\\project app\\ipassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\ui\\mypasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|solutionrelative:ui\\mypasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\ui\\myuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|solutionrelative:ui\\myuserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\project app\\project app\\project app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F73822E-CE2A-9D59-9985-634F76A47A85}|Project App\\Project App\\Project App.csproj|solutionrelative:project app\\project app\\project app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|c:\\users\\frost\\desktop\\tas\\proiect_tas_mihaltan_serban_catalin\\ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61054A91-D8F8-4DA3-A7CC-9C7340179630}|UI\\UI.csproj|solutionrelative:ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project App.csproj",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\Project App.csproj",
+              "RelativeDocumentMoniker": "Project App\\Project App\\Project App.csproj",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\Project App.csproj",
+              "RelativeToolTip": "Project App\\Project App\\Project App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T07:43:02.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\Program.cs",
+              "RelativeDocumentMoniker": "Project App\\Project App\\Program.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\Program.cs",
+              "RelativeToolTip": "Project App\\Project App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:32:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UI\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\AssemblyInfo.cs",
+              "RelativeToolTip": "UI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:20:55.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyPasswordManager.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MyPasswordManager.cs",
+              "RelativeDocumentMoniker": "UI\\MyPasswordManager.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MyPasswordManager.cs",
+              "RelativeToolTip": "UI\\MyPasswordManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:20:18.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyUserDB.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MyUserDB.cs",
+              "RelativeDocumentMoniker": "UI\\MyUserDB.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MyUserDB.cs",
+              "RelativeToolTip": "UI\\MyUserDB.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:12:59.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T10:11:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:11:50.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserDB.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\IUserDB.cs",
+              "RelativeDocumentMoniker": "Project App\\Project App\\IUserDB.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\IUserDB.cs",
+              "RelativeToolTip": "Project App\\Project App\\IUserDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:09:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserOperationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project Tests\\UserOperationTests.cs",
+              "RelativeDocumentMoniker": "Project Tests\\UserOperationTests.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project Tests\\UserOperationTests.cs",
+              "RelativeToolTip": "Project Tests\\UserOperationTests.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAhwPMBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:59:02.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\UserOperations.cs",
+              "RelativeDocumentMoniker": "Project App\\Project App\\UserOperations.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\UserOperations.cs",
+              "RelativeToolTip": "Project App\\Project App\\UserOperations.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAhwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:38:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyPasswordManager.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project Tests\\MyPasswordManager.cs",
+              "RelativeDocumentMoniker": "Project Tests\\MyPasswordManager.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project Tests\\MyPasswordManager.cs",
+              "RelativeToolTip": "Project Tests\\MyPasswordManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:39:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\IPassword.cs",
+              "RelativeDocumentMoniker": "Project App\\Project App\\IPassword.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\IPassword.cs",
+              "RelativeToolTip": "Project App\\Project App\\IPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:43:43.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\User.cs",
+              "RelativeDocumentMoniker": "Project App\\Project App\\User.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project App\\Project App\\User.cs",
+              "RelativeToolTip": "Project App\\Project App\\User.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAhwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:38:16.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project Tests\\UserTests.cs",
+              "RelativeDocumentMoniker": "Project Tests\\UserTests.cs",
+              "ToolTip": "C:\\Users\\Frost\\Desktop\\TAS\\Proiect_TAS_Mihaltan_Serban_Catalin\\Project Tests\\UserTests.cs",
+              "RelativeToolTip": "Project Tests\\UserTests.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAhwDEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:28:21.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
